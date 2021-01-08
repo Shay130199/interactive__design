@@ -32,8 +32,7 @@ In the component,  there was animation included off the logo design Turning arou
 # Planning and prototyping
 
 The planning process began with drawing out sketches of ideas,  then moving forward to wireframing where Figma was used. This useful wireframe help visualises what is expected when it comes to making it into its interactive design. Downloading page interacts with the user by indicating with a spinner that behind the loading screen other compartments of the app is still processing so the customer must wait. Once signals finished the next step was to go to vs code and export logo and the titles.png from Figma. Also when it came to CSS Styles,  I implemented the colours that were used from Figma into to vs code react
-
-![LOADING]  
+ 
 
 # Reflection
  
