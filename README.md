@@ -33,6 +33,8 @@ In the component,  there was animation included off the logo design Turning arou
 
 The planning process began with drawing out sketches of ideas,  then moving forward to wireframing where Figma was used. This useful wireframe help visualises what is expected when it comes to making it into its interactive design. Downloading page interacts with the user by indicating with a spinner that behind the loading screen other compartments of the app is still processing so the customer must wait. Once signals finished the next step was to go to vs code and export logo and the titles.png from Figma. Also when it came to CSS Styles,  I implemented the colours that were used from Figma into to vs code react
 
+![Modal design] 
+
 # Reflection
  
 Reflecting back to the component a does reach most of the guidelines and as it's been tested,  the person that was asked about how good the component was said that it did give them an indication of something is loading mainly because of the spinning animation. 
@@ -158,18 +160,5 @@ Material-ui.com. 2021. React Card Component - Material-UI. [online] Available at
 
 
 To give an overall reflection there are some parts where there has been a new understanding of how to react works. It Is very different from the l standard HTML and CSS. React is more of a functional way of creating interactive design straight away and it all compiles into one which is really good.  what went world person is that there is more knowledge of how it all works, Is probably an easier way of making an interactive design. The play has also been different types of resources that have benefited a lot in order to get these components functioning right.  the only issue is that there was a lack of Styles compared to the Figma work that has been done.  if there was a chance to go over the work again,  the first thing is to really dissect the meaning of reacting interactive designs and learning about how to style reactive component properly to the best standard.  and maybe do a bit more research as to what makes a really good website instead of being biased.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
