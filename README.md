@@ -32,6 +32,12 @@ In the component,  there was animation included off the logo design Turning arou
 # Planning and prototyping
 
 The planning process began with drawing out sketches of ideas,  then moving forward to wireframing where Figma was used. This useful wireframe help visualises what is expected when it comes to making it into its interactive design. Downloading page interacts with the user by indicating with a spinner that behind the loading screen other compartments of the app is still processing so the customer must wait. Once signals finished the next step was to go to vs code and export logo and the titles.png from Figma. Also when it came to CSS Styles,  I implemented the colours that were used from Figma into to vs code react
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Screencast
+ 
+ ![Alt Text](https://media.giphy.com/media/j6kZTVH9HM3sIFzVaT/giphy.gif)
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 
 # Reflection
@@ -64,7 +70,12 @@ The button’s position is in the centre underneath the information given as sho
 # Planning and prototyping
 
 The process of planning and prototyping the buttons was similar to the first component where some samples of buttons I would look suitable with the app that has been designed. After research has been done to find out what are the effective guidelines to follow to create an exceptional button. It was time to next move on to Figma wireframing,  there were certain animals I had to learn in order to make sure the buttons were acceptable for the guidelines. Such as working on the size of the button, How much padding there should be in between the text and the button,  how would I transition the buttons to make it reactive and can easily give the user a response that it has been clicked on. It was crucial to also have the button have a grid over it so it was known how many pixels there were on each side of the button. 
+
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Screencast
  
+ ![Alt Text](https://media.giphy.com/media/aNrHcAKWY9osLDelp6/giphy.gif)
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  # Reflection
  
@@ -90,6 +101,12 @@ When it comes to the guidelines of making hamburger icons, The navigation has to
  
 When it came to prototyping and planning it was like the same with the other two components, I had to sketch out ideas of how I want my hand burger to look,  It took some time to understand how to make the Navbar reactive.  luckily understanding the way the component works and how to code it didn't take that long because I have experience with HTML, CSS, and javascript. The layout of making a responsive hamburger navbar is quite similar to react coding. Usually, for some hamburgers, there are only two or three colour schemes.  The hamburger icon was pure white, the navbar was the dark blue that has been used before. #1D438E, And when our customer wanted to hover over the menus the text will change to a grey colour which is #86878a.
 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Screencast
+ 
+ ![Alt Text](https://media.giphy.com/media/PqNBr5jqRZDJVnngPt/giphy.gif)
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
   
  # Reflection
  
@@ -112,6 +129,12 @@ The guidelines of making a successful modal box are that everything has to be in
  
 When it came to planning and prototyping The guidelines gave a good indication of what to do and what not to do , When it came to designing and coding the box model,  it was something new to learn.  there are a lot of functions to put in in in order for it to work smoothly. 
 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Screencast
+ 
+ ![Alt Text](https://media.giphy.com/media/T4B3QcqWOLC2Ry8QnE/giphy.gif)
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
  # Reflection
 
 Looking back and reflecting on the modal box that was made,  the CSS stylesheet needs some improving. There also should have been an image to make it visually pleasing to the eyes.  However, the functions of the box work well,  when it was tested it did come up with a message informing the user something and also a close button When you can directly click it and it will close or you can click the outside of the box and it will just come off which is how a normal functioning modal box works.
@@ -142,6 +165,12 @@ The guidelines of making an effective digital card for your website or your app 
  
 Planning and prototyping the cards was similar to how it was planned for the other components however with this one,  the measurements from Figma were taken and When it was time to move forward over to vscode,  those elements that were taken from Figma was put into the CSS stylesheet' for the cards. This is because  they're Figma measurements were followed by the guidelines,  so it would have been easier to transfer those measurements over to vs code
 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Screencast
+ 
+ ![Alt Text](https://media.giphy.com/media/cVvaQ4r80KStJXtCvO/giphy.gif)
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 
  # Reflection
  
